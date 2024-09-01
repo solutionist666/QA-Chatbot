@@ -7,3 +7,4 @@ langchain-core
 langchain-groq
 langchain-huggingface
 python-dotenv
+protobuf-5.28.0
