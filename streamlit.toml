@@ -1,0 +1,8 @@
+[general]
+app_name = "Convesation Chatbit"
+description = "Chatbot"
+author = "Abishek"
+author_email = "abishekelav1995@gmail.com"
+
+[deploy]
+instance_type = "medium"
