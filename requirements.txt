@@ -1,0 +1,9 @@
+ipykernel
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+langchain-groq
+langchain-huggingface
+python-dotenv
